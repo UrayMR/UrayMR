@@ -1,7 +1,5 @@
 # 🌟 Hi, I'm Uray — Fullstack Web Developer  
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
-
 ## 🚀 About Me
 I'm a passionate **Fullstack Web Developer** who loves building modern, fast, and scalable applications.  
 I focus on **clean architecture, modular design, type safety**, and developer experience. 
